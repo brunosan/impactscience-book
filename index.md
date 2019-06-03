@@ -1,37 +1,30 @@
 ---
 layout: default
-title: Home
+title: "Impact Science"
 nav_order: 1
-description: "Welcome to the teaser page of the Book. Here you can take a look to the book before buying it."
+description: "The science of getting to radical social and environmental breakthroughs stunningly fast."
 permalink: /
 ---
 
-“Bruno is one of the most creative and thoughtful scientists that I know. In this work, he examines how to use science and technology to make this world a better place - critically important on a changing and increasingly complex planet.”
+> “Bruno is one of the most creative and thoughtful scientists that I know. In this work, he examines how to use science and technology to make this world a better place - critically important on a changing and increasingly complex planet.” -- *Dr. Ellen Stofan. Former NASA Chief Scientist and
+Director of the Smithsonian National Air and Space Museum*
 
-Dr. Ellen Stofan
-Former NASA Chief Scientist and
-Director of the Smithsonian National Air and Space Museum
+> “If you liked "Freakonomics", you will love this one" -- *Najat Vallaud-Belkacem. Former France Minister of Education and Research*
 
- “If you liked "Freakonomics", you will love this one"
-Najat Vallaud-Belkacem
-Former France Minister of Education and Research
+# Impact Science:
 
+## The science of getting to radical social and environmental breakthroughs stunningly fast.
 
 
-# Brief description
+Why would a NASA rocket scientist move to Bhutan to plant hazelnuts? How could something as complex as the Ozone hole chemistry lead to the Montreal Protocol, in the words of the UN Secretary General, "The single most successful international agreement?” How can we know so much about climate change and yet fail to move forward? How could basic physics of melting wax save the lives of thousands of babies worldwide?
 
-Why would a NASA-rockets scientist move to Bhutan to plant hazelnuts? How could something as complex as the Ozone hole chemistry lead to the Montreal Protocol, in the words of the UN Secretary-General, "the single most successful international agreement”? How can we know so much about climate change and yet fail to move forward? How could basic physics of melting wax save the lives of thousands of babies worldwide?
+We have more scientists than ever before, more data than we ever dreamed, and technology in every aspect of life. And yet, with all of the wealth of facts, it seems there is still a stark polarization of opinions and paralysis of action. What is missing? This book explores, via stories of both success and failure, the weakening link between the research-driven scientists focused on understanding and creating knowledge, and the role of scientists integrating an impact-driven attitude. Scientists are good with data, but it is not just about data; it is what we do with it. Facts do not change the world—people do.
 
-We have more scientists than ever before, more data than we ever dreamed, and technology in every aspect of life. And yet, with all the wealth of facts, it seems there is still a stark polarization of opinions, and paralysis of action. What is missing? This book explores, via stories of both success or failure, the weakening link between the research-driven scientists focused on understanding and creating knowledge, and the role of scientists integrating an impact-driven attitude. Scientists are good with data, but it is not about data; it is what we do with it. Facts do not change the World, people do.
-
+Current Book version: 7 (Summer 2019)
 
 ---
+Bruno Sánchez-Andrade Nuño, Ph.D. is a scientist, awarded Magna cum Laude for his PhD in astrophysics from the Max Planck Institute in Germany. He was also Mirzayan Science Policy Fellow of the US National Academies of Science, and a Young Global Leader of the World Economic Forum. He was a member of the Global Future Council on Space. He has served on the advisory boards for companies, government bodies, and NGOs—including Inmarsat Development Program, the UAE Statistical Authority, and IamtheCode.
 
-## Why
-This book fills a positive narrative confronting the Fourth Industrial Revolution and the crisis of academic science. It supplies pointers and useful insights for those looking to be Impact Scientists, teach Impact Science or manage scientist for Impact.
-In my experience and research, there is a growing need, both demand and supply, of people looking for the answers in this book. Science outside of articles, computer screens and closer to the action, the impact of their work. Specially, as more millennial scientists find a tougher job market and are also looking to find value in their work.
+Bruno combines professional experience in academia, private sector, NGOs, and the public sector. At the World Bank’s Innovation Lab, their team led the Institution's Big Data work. He has been postdoctoral researcher in astrophysics on NASA satellites and rockets. At climate change NGO “Gain” he was Director of Science. He was Chief Scientist at high-growth startup Mapbox in Silicon Valley and later Vice President for Social Impact at the satellite company Satellogic.
 
-## Short author bio
-Bruno Sánchez-Andrade Nuño, Ph.D. is a scientist. Awarded Magna cum Laude for his PhD in astrophysics from the Max Planck Institute in Germany. He was also Mirzayan Science Policy Fellow of the US National Academies of Science, and a Young Global Leader of the World Economic Forum. Currently is a member of the Global Future Council on Space. He serves on the advisory boards for companies, government bodies, and NGOs, including Inmarsat Development Program, the UAE Statistical Authority, and IamtheCode.
-
-Bruno combines professional experience in academia, private sector, NGOs, and the public sector. At the World Bank’s Innovation Lab, their team led the Institution's Big Data work. He has been postdoctoral researcher in astrophysics on NASA satellites and rockets. At climate change NGO “Gain” he was Director of Science. He was Chief Scientist at high-growth startup Mapbox in Silicon Valley. Currently serves as Vice-president for Social Impact at the Satellite company Satellogic.
+{% include more.md %}
