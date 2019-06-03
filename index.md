@@ -22,6 +22,7 @@ We have more scientists than ever before, more data than we ever dreamed, and te
 
 Current Book version: 7 (Summer 2019)
 
+Check the menu on the right (or the button on top on mobile) to access the chapters.
 
 [Available on Amazon]((https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1))
 
