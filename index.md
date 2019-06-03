@@ -22,6 +22,9 @@ We have more scientists than ever before, more data than we ever dreamed, and te
 
 Current Book version: 7 (Summer 2019)
 
+
+[Available on Amazon]((https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1))
+
 ---
 Bruno Sánchez-Andrade Nuño, Ph.D. is a scientist, awarded Magna cum Laude for his PhD in astrophysics from the Max Planck Institute in Germany. He was also Mirzayan Science Policy Fellow of the US National Academies of Science, and a Young Global Leader of the World Economic Forum. He was a member of the Global Future Council on Space. He has served on the advisory boards for companies, government bodies, and NGOs—including Inmarsat Development Program, the UAE Statistical Authority, and IamtheCode.
 
