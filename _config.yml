@@ -30,7 +30,7 @@ aux_links:
     - "https://brunosan.eu"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: dark
+color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
