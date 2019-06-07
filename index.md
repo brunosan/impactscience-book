@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Impact Science"
+title: "Home"
 nav_order: 1
 description: "The science of getting to radical social and environmental breakthroughs stunningly fast."
 permalink: /
