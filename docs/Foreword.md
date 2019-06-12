@@ -6,16 +6,96 @@ nav_order: 2
 
 # Foreword
 
+It was 4 am when a voice said, “Yes, you know the *what* ... *so what*?”
+in my head. It was late at night, but the sun was over the horizon.
+There was a bright rainbow ring around it. It was not a dream; I was in
+the middle of an expedition to Greenland in June. This phenomenon of
+nighttime with the sun on the sky happens only in summer close to the
+North Pole. These regions have six months of daylight, then six months
+of freezing nights in winter. Luckily, it was summer in Ilulissat, the
+third most populous settlement of Greenland at 4,000 inhabitants. I went
+for a run (it was daylight, after all) and I had seen on the map that
+there was a glacier overlook close by.
 
-It was 4 am when a voice said, 'Yes, you know the _what_ ... _so what_?' in my head. It was late at night, but the sun was over the horizon. There was a bright rainbow ring around it. It was not a dream; I was in the middle of an expedition to Greenland in June. This phenomenon of nighttime with the sun on the sky happens only in summer close to the North Pole. These regions have six months of daylight, then six months of freezing nights in winter. Luckily, it was summer in Ilulissat, the third most populous settlement of Greenland at 4,000 inhabitants. I went for a run (it was daylight, after all) and I had seen on the map that there was a glacier overlook close by.
+The streets were full of people: adults going for a walk and kids
+playing soccer and just hanging out under the sun. I suppose some people
+save their sleeping for the cold dark months of winter. Being in
+Greenland breaks many common assumptions, like what is a *day*, what
+kids should do at 3 am, or how nature behaves. As I left the village and
+headed towards the overlook point, I remember looking at the sun and
+seeing a rainbow ring around it. I knew *what* it was. It was the result
+of an icy layer above in the atmosphere where tiny ice crystals float
+around, and their collective reflection creates a circular rainbow.
+Similar to water droplets that make the usual rainbow arcs on the
+horizon, but these are fully circling the sun high in the sky. Another
+broken assumption of what a rainbow is.
 
-The streets were full of people: adults going for a walk and kids playing soccer and just hanging out under the sun. I suppose some people save their sleeping for the cold dark months of winter. Being in Greenland breaks many common assumptions, like what is a _day_, what kids should do at 3 am, or how nature behaves. As I left the village and headed towards the overlook point, I remember looking at the sun and seeing a rainbow ring around it. I knew _what_ it was. It was the result of an icy layer above in the atmosphere where tiny ice crystals float around, and their collective reflection creates a circular rainbow. Similar to water droplets that make the usual rainbow arcs on the horizon, but these are fully circling the sun high in the sky. Another broken assumption of what a rainbow is.
+The overlook point used to be looking at a glacier called Jakobshavn
+Glacier. Not anymore. I also knew *what* was happening. Because of the
+warmer weather in the last several decades due to climate change, the
+leading edge of the glacier has retreated inland[1]. Instead, a
+beautiful river with icebergs of all sizes was visible. Huge chunks of
+ice regularly break from the edge of the glacier up the river and float
+solemnly, moving along slowly. Moreover, as if on purpose to make it
+more beautiful, right at the edge of the coast where the overlook is,
+the river mouth is significantly less deep before reaching the open
+arctic ocean. Like an underwater barrier, it stops the icebergs,
+stranded or bumping into each other until they melt or crumble enough to
+continue. Ice is only slightly less dense than water, so it floats, but
+most of it is still below water. The visible part above the water, the
+tip of the iceberg, is only 10% of the whole body. The water erodes the
+ice underneath faster than the air, so sometimes they become unstable
+and imposingly flip over, showing a smooth blueish surface. When they do
+that, it is like witnessing the creation of a mountain. Profoundly
+impressive. I decided to stop for a few minutes to enjoy the view and
+try my luck at seeing one of those vast icebergs flip around. If you
+stop, listen, and close your eyes, there is a constant hum of little
+noises as small pieces of ice fall near and afar. To top it all, as the
+ice melts, with tiny bubbles of air inside, it liberates air that was
+trapped millennia ago[2]. One breathes, in fact, ancient air, listening
+to icebergs cracking and melting due to climate change produced by car
+and factories far, far away.
 
-The overlook point used to be looking at a glacier called Jakobshavn Glacier. Not anymore. I also knew _what_ was happening. Because of the warmer weather in the last several decades due to climate change, the leading edge of the glacier has retreated inland [[i]](/docs/Notes/#i). Instead, a beautiful river with icebergs of all sizes was visible. Huge chunks of ice regularly break from the edge of the glacier up the river and float solemnly, moving along slowly. Moreover, as if on purpose to make it more beautiful, right at the edge of the coast where the overlook is, the river mouth is significantly less deep before reaching the open arctic ocean. Like an underwater barrier, it stops the icebergs, stranded or bumping into each other until they melt or crumble enough to continue. Ice is only slightly less dense than water, so it floats, but most of it is still below water. The visible part above the water, the tip of the iceberg, is only 10% of the whole body. The water erodes the ice underneath faster than the air, so sometimes they become unstable and imposingly flip over, showing a smooth blueish surface. When they do that, it is like witnessing the creation of a mountain. Profoundly impressive. I decided to stop for a few minutes to enjoy the view and try my luck at seeing one of those vast icebergs flip around. If you stop, listen, and close your eyes, there is a constant hum of little noises as small pieces of ice fall near and afar. To top it all, as the ice melts, with tiny bubbles of air inside, it liberates air that was trapped millennia [[ii]]]](/docs/Notes/#ii). One breathes, in fact, ancient air, listening to icebergs cracking and melting due to climate change produced by car and factories far, far away.
+“Yes, you know the *what* ... *so what*?” said a voice in my head. I
+knew what was happening to the sun rainbow, the origin of the noises,
+the view of icebergs, their dynamic, what climate change is, that human
+activity causes it... that is what *facts* and *Science* tell me. I am a
+scientist and I have studied that. As much as I could explain what was
+happening, there was a strong voice in my head yelling, *So what?* So
+what if you know all of that? What difference does it make? What can I
+do with this knowledge to make a change? I flew here on a plane spewing
+more CO2 that contributes to climate change. Our group even hired a
+helicopter to go up the river to the head of the impressive glacier. I
+did know the impact that this has. What I did not know is what impact
+this trip could have on me, if any, to help stop climate change. I did
+not know what impact it may have, for example, to an executive of a
+natural gas multinational that was also part of the group. Talking to
+him helped me realize how deeply we all depend on, and demand, the cheap
+oil whose CO2 emissions we demonize. It painfully unpeels the complexity
+of implementing the demands climate change science asks. We also had a
+politician, who later became Minister in Canada. Listening to him helps
+to understand how complex political leadership is, to position oneself
+to be democratically chosen and at the same time aim to implement
+changes that are hard and painful in the short term. I am an
+astrophysicist; I was not trained to understand economy, politics, or
+society. On the other hand, my trip mates were not trained to understand
+the complex chemistry and physics of climate change, or to process the
+firehose of data we are faced with nowadays. If we are to solve complex
+real-world problems, we must find a way to merge efforts and skills in
+the same direction.
 
-'Yes, you know the _what_ ... _so what_?' said a voice in my head. I knew what was happening to the sun rainbow, the origin of the noises, the view of icebergs, their dynamic, what climate change is, that human activity causes it... that is what _facts_ and _Science_ tell me. I am a scientist and I have studied that. As much as I could explain what was happening, there was a strong voice in my head yelling, _So what?_ So what if you know all of that? What difference does it make? What can I do with this knowledge to make a change? I flew here on a plane spewing more CO2 that contributes to climate change. Our group even hired a helicopter to go up the river to the head of the impressive glacier. I did know the impact that this has. What I did not know is what impact this trip could have on me, if any, to help stop climate change. I did not know what impact it may have, for example, to an executive of a natural gas multinational that was also part of the group. Talking to him helped me realize how deeply we all depend on, and demand, the cheap oil whose CO2 emissions we demonize. It painfully unpeels the complexity of implementing the demands climate change science asks. We also had a politician, who later became Minister in Canada. Listening to him helps to understand how complex political leadership is, to position oneself to be democratically chosen and at the same time aim to implement changes that are hard and painful in the short term. I am an astrophysicist; I was not trained to understand economy, politics, or society. On the other hand, my trip mates were not trained to understand the complex chemistry and physics of climate change, or to process the firehose of data we are faced with nowadays. If we are to solve complex real-world problems, we must find a way to merge efforts and skills in the same direction.
-
-Greenland is an exceptional place; it breaks many of your assumptions of reality. Reality is complex: physically complex and socially complex. To understand part of that reality, it might be possible to isolate and focus on a specific part of that complexity. Unfortunately, many of the challenges we need to face require both the ability to understand its facts as well as the ability to actually effect the change we need to do. I could help contribute to the third decimal of how the icebergs melt, or I could try to understand how to incorporate those other messy factors of society, economics, politics… and contribute to create and implement a pragmatic solution, to have a positive Impact. I chose to focus on _impact_. I chose impact science. This is what this book is about.
+Greenland is an exceptional place; it breaks many of your assumptions of
+reality. Reality is complex: physically complex and socially complex. To
+understand part of that reality, it might be possible to isolate and
+focus on a specific part of that complexity. Unfortunately, many of the
+challenges we need to face require both the ability to understand its
+facts as well as the ability to actually effect the change we need to
+do. I could help contribute to the third decimal of how the icebergs
+melt, or I could try to understand how to incorporate those other messy
+factors of society, economics, politics… and contribute to create and
+implement a pragmatic solution, to have a positive Impact. I chose to
+focus on *impact*. I chose impact science. This is what this book is
+about.
 
 {% include more.md %}
 

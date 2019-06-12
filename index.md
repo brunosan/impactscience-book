@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 nav_order: 1
-description: "The science of getting to radical social and environmental breakthroughs stunningly fast."
+description: "The Science of getting to radical social and environmental breakthroughs."
 permalink: /
 ---
 
@@ -13,14 +13,14 @@ Director of the Smithsonian National Air and Space Museum*
 
 # Impact Science:
 
-## The science of getting to radical social and environmental breakthroughs stunningly fast.
+### The Science of getting to radical social and environmental breakthroughs.
 
 
 Why would a NASA rocket scientist move to Bhutan to plant hazelnuts? How could something as complex as the Ozone hole chemistry lead to the Montreal Protocol, in the words of the UN Secretary General, "The single most successful international agreement?” How can we know so much about climate change and yet fail to move forward? How could basic physics of melting wax save the lives of thousands of babies worldwide?
 
 We have more scientists than ever before, more data than we ever dreamed, and technology in every aspect of life. And yet, with all of the wealth of facts, it seems there is still a stark polarization of opinions and paralysis of action. What is missing? This book explores, via stories of both success and failure, the weakening link between the research-driven scientists focused on understanding and creating knowledge, and the role of scientists integrating an impact-driven attitude. Scientists are good with data, but it is not just about data; it is what we do with it. Facts do not change the world—people do.
 
-Current Book version: 7 (Summer 2019)
+Current Book version: 8 (Summer 2019)
 
 Check the menu on the right (or the button on top on mobile) to access the chapters.
 

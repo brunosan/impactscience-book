@@ -7,26 +7,179 @@ nav_order: 11
 
 # Moonshot Mindset
 
-If we went to the moon, can we do a Cancer Moonshot and cure cancer? Can we do a Poverty Moonshot and eradicate poverty? A Climate Change Moonshot? Can we make a Moonshot Factory?
+If we went to the moon, can we do a Cancer Moonshot and cure cancer? Can
+we do a Poverty Moonshot and eradicate poverty? A Climate Change
+Moonshot? Can we make a Moonshot Factory?
 
-We do not have a Poverty or a Climate Change Moonshot, but we do have a Cancer Moonshot. In 2016 the US White House announced a program to find a vaccine for cancer by 2020, and they specifically called it 'Cancer Moonshot.' The then-president, Barack Obama, called for the 'same sense of urgency and an all-hands-on-deck approach, where everybody pulled together, […] all to look at where, if we really put our shoulder behind the wheel, where can we make the biggest impact as quickly as possible. '
+We do not have a Poverty or a Climate Change Moonshot, but we do have a
+Cancer Moonshot. In 2016 the US White House announced a program to find
+a vaccine for cancer by 2020, and they specifically called it “Cancer
+Moonshot.” The then-president, Barack Obama, called for the “same sense
+of urgency and an all-hands-on-deck approach, where everybody pulled
+together, \[…\] all to look at where, if we really put our shoulder
+behind the wheel, where can we make the biggest impact as quickly as
+possible. ”
 
-  In a lengthy essay, titled _Saving Science,_ in the summer of 2016 issue of the _New Atlantis_, Daniel Sarewitz, professor of Science and Society at Arizona State University, argues how science is misleading itself and uses this Cancer Moonshot as an example of a way forward. The argument goes that we tend to think that science is best left alone to the curiosity of researchers, while the reality is the opposite. The idea of curiosity-driven science was put forward by Vannevar Bush, the person we introduced when we talked about the atomic bomb that was behind the American wartime science strategy, and the precursor of NASA. After the war, Bush, in his peacetime memo _Science, the endless frontier_ writes: 'Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice, in the manner dictated by their curiosity for exploration of the unknown.' Going to the moon, as creating the atomic bomb or other war needed innovation, was far from such curiosity-driven pursuit. It operated by military trained management, timelines, and strict procedures. The atomic bomb was run by the Department of Defense working closely with industry and researchers to pave the way. The Moonshot had partly military heritage and management. It was this attitude, and the political and superpower identity, which led us to the atomic bomb and to the moon.
+In a lengthy essay, titled *Saving Science,* in the summer of 2016 issue
+of the *New Atlantis*, Daniel Sarewitz, professor of Science and Society
+at Arizona State University, argues how science is misleading itself and
+uses this Cancer Moonshot as an example of a way forward. The argument
+goes that we tend to think that science is best left alone to the
+curiosity of researchers, while the reality is the opposite. The idea of
+curiosity-driven science was put forward by Vannevar Bush, the person we
+introduced when we talked about the atomic bomb that was behind the
+American wartime science strategy, and the precursor of NASA. After the
+war, Bush, in his peacetime memo *Science, the endless frontier* writes:
+“Scientific progress on a broad front results from the free play of free
+intellects, working on subjects of their own choice, in the manner
+dictated by their curiosity for exploration of the unknown.” Going to
+the moon, as creating the atomic bomb or other war needed innovation,
+was far from such curiosity-driven pursuit. It operated by military
+trained management, timelines, and strict procedures. The atomic bomb
+was run by the Department of Defense working closely with industry and
+researchers to pave the way. The Moonshot had partly military heritage
+and management. It was this attitude, and the political and superpower
+identity, which led us to the atomic bomb and to the moon.
 
-The opposite, the 'free play of the free intellects,' Sarewitz argues, is an unaffordable luxury when it comes to achieving Moonshots. A system where science lacks an external goal or metric of progress is very hard to make accountable. If only scientists decide what to research, how to research it, and how important that is, the system feeds itself with no incentive to turn research into progress beyond keeping it alive. It is a system that promotes outputs (e.g., articles) but has no metric linking to outcomes. It is a system that eventually grows so large that would incentivize individual career building, and not collective outcomes. It is a system that, like the case we spoke on with HIV/AIDS, would favor building expertise and professional brand that secures future funding; not a system that favors outcomes, like the HIV discovery, above outputs of papers, careers, or awards.
+The opposite, the “free play of the free intellects,” Sarewitz argues,
+is an unaffordable luxury when it comes to achieving Moonshots. A system
+where science lacks an external goal or metric of progress is very hard
+to make accountable. If only scientists decide what to research, how to
+research it, and how important that is, the system feeds itself with no
+incentive to turn research into progress beyond keeping it alive. It is
+a system that promotes outputs (e.g., articles) but has no metric
+linking to outcomes. It is a system that eventually grows so large that
+would incentivize individual career building, and not collective
+outcomes. It is a system that, like the case we spoke on with HIV/AIDS,
+would favor building expertise and professional brand that secures
+future funding; not a system that favors outcomes, like the HIV
+discovery, above outputs of papers, careers, or awards.
 
-  When it comes to research on cancer, Sarewitz builds on the 'sweet lie' of full academic freedom. It recounts how the US National Breast Cancer Coalition (NBCC) was born to help raise funds for academic research, eventually helping to accumulate two billion dollars in grants. At that point, at the US Congress in 2007, the NBCC president Fran Visco asks: 'And what? And what is there to show? You want to do this science and what? At some point, you really have to save a life.' Managing science for outcomes is very different from managing science for research. The way we teach science is a false choice between basic research or applied research, that also leaves Moonshot mindset without space. If you are in basic research, this is the domain of the 'free play of the free intellect.' If you are the applied research camp, your job is to take the basic research results and apply for a commercial purpose. Sarewitz is very emphatic that if Moonshots are a model for science, science should always be accountable to a mission. If a research project is exciting but is not aligned to the mission, it has no place in a Moonshot. This is the attitude for at least one of the programs inside the Cancer Moonshot, The Artemis Project, managed (in part due to funding appropriation streams) by the Department of Defense. For example, more than peer-review funding decisions, it has end-user funding decisions. Patients, advocates, and non-experts contribute in a meaningful way to the decisions of the program. This is very unorthodox academia. As the lead scientist, Dr. Dennis Slamon puts it, '[We the scientists] could not have been more wrong.' The drug Herceptin, one of the most critical advances in breast cancer, was born with this management method.
+When it comes to research on cancer, Sarewitz builds on the “sweet lie”
+of full academic freedom. It recounts how the US National Breast Cancer
+Coalition (NBCC) was born to help raise funds for academic research,
+eventually helping to accumulate two billion dollars in grants. At that
+point, at the US Congress in 2007, the NBCC president Fran Visco asks:
+“And what? And what is there to show? You want to do this science and
+what? At some point, you really have to save a life.” Managing science
+for outcomes is very different from managing science for research. The
+way we teach science is a false choice between basic research or applied
+research, that also leaves Moonshot mindset without space. If you are in
+basic research, this is the domain of the “free play of the free
+intellect.” If you are the applied research camp, your job is to take
+the basic research results and apply for a commercial purpose. Sarewitz
+is very emphatic that if Moonshots are a model for science, science
+should always be accountable to a mission. If a research project is
+exciting but is not aligned to the mission, it has no place in a
+Moonshot. This is the attitude for at least one of the programs inside
+the Cancer Moonshot, The Artemis Project, managed (in part due to
+funding appropriation streams) by the Department of Defense. For
+example, more than peer-review funding decisions, it has end-user
+funding decisions. Patients, advocates, and non-experts contribute in a
+meaningful way to the decisions of the program. This is very unorthodox
+academia. As the lead scientist, Dr. Dennis Slamon puts it, “\[We the
+scientists\] could not have been more wrong.” The drug Herceptin, one of
+the most critical advances in breast cancer, was born with this
+management method.
 
-This chapter cannot end without mentioning the idea of 'Moonshot Factory.' Is it possible to extract the process that makes a Moonshot? To make it a product, and then set it up to produce as many possible Moonshots as we can? This is exactly the hypothesis of 'X,' a branch of the Company Alphabet (which also owns Google). At X there are three criteria to define a possible Moonshot: first, it must aim to solve a huge problem. Second, the solution cannot be incremental, it has to be a leap of progress, at least ten times (or '10x') better. Third, this leap must start with technologies doable today. I would imagine there is a fourth criterion around the sustainability of the project itself and the approach. X is funded by its parent company Alphabet, so it is not unreasonable to think the graduating ideas ought to contribute to future revenue sources that help thrive both the for-profit corporation and the impact itself those ideas aim for. Being an impact-driven project or a for-profit project is a fall choice X embraces by design. It is very possible to create a radical solution to a huge problem that can also not only sustain itself but also bring substantial profits.
+This chapter cannot end without mentioning the idea of “Moonshot
+Factory.” Is it possible to extract the process that makes a Moonshot?
+To make it a product, and then set it up to produce as many possible
+Moonshots as we can? This is exactly the hypothesis of “X,” a branch of
+the Company Alphabet (which also owns Google). At X there are three
+criteria to define a possible Moonshot: first, it must aim to solve a
+huge problem. Second, the solution cannot be incremental, it has to be a
+leap of progress, at least ten times (or "10x") better. Third, this leap
+must start with technologies doable today. I would imagine there is a
+fourth criterion around the sustainability of the project itself and the
+approach. X is funded by its parent company Alphabet, so it is not
+unreasonable to think the graduating ideas ought to contribute to future
+revenue sources that help thrive both the for-profit corporation and the
+impact itself those ideas aim for. Being an impact-driven project or a
+for-profit project is a fall choice X embraces by design. It is very
+possible to create a radical solution to a huge problem that can also
+not only sustain itself but also bring substantial profits.
 
-This approach of exploration without a pre-defined target or challenge to be addressed falls squarely into the 'Vanebar' model of impact, where thousands of ideas are created, tried, and tested, with an unaccommodating bias away from pure curiosity detached from impact. The head of X, with a title of 'Captain of Moonshots,' Astro Teller refers to this phase as 'failing fast,' testing and trying different approaches until 'eventually you fail to fail' and succeed on moving forward towards a solution. During this phase, a 'Rapid Evaluation Team' works together with the team proposing a solution and they try to kill the project, to make it fail, while the other team embraces failure while looking at how to overcome the problems, how to shift focus, how to make the approach survive, and survive to the next phase of having a dedicated project building the proposed solution. X undertakes many ideas, although they are secretive to budget, staff, or even what ideas they try. They quote killing over 100 potential ideas in a year, including some that had big teams, and after many months or years. Deciding to kill their own project because they discover a fundamental flaw might even be rewarded with a bonus. Such is the design for a failure culture at X. The funnel from idea to meaningful impact is huge. From millions of ideas to the next Google business that solves a problem for millions of people. A failure culture makes sure you both encourage a wide entry point in the funnel, but also that you narrow it down as soon as possible so as not to lose time or money better spent. So far, the exit point of this funnel includes a cybercrime defense company 'Chronicle,' an internet hot-spot service using stratospheric balloons called 'Loom,' a machine learning project called 'Google Brain,' a drone delivery service 'Wing' or self-driving company 'Waymo.' Regarding monetary return, Waymo is valued as of 2018 at 70 billion dollars. Using 'Google Brain' to optimize energy usage at Google's data centers has reportedly saved the company more than the whole cost of X since its creation.
+This approach of exploration without a pre-defined target or challenge
+to be addressed falls squarely into the “Vanebar” model of impact, where
+thousands of ideas are created, tried, and tested, with an
+unaccommodating bias away from pure curiosity detached from impact. The
+head of X, with a title of “Captain of Moonshots,” Astro Teller refers
+to this phase as “failing fast,” testing and trying different approaches
+until “eventually you fail to fail” and succeed on moving forward
+towards a solution. During this phase, a “Rapid Evaluation Team” works
+together with the team proposing a solution and they try to kill the
+project, to make it fail, while the other team embraces failure while
+looking at how to overcome the problems, how to shift focus, how to make
+the approach survive, and survive to the next phase of having a
+dedicated project building the proposed solution. X undertakes many
+ideas, although they are secretive to budget, staff, or even what ideas
+they try. They quote killing over 100 potential ideas in a year,
+including some that had big teams, and after many months or years.
+Deciding to kill their own project because they discover a fundamental
+flaw might even be rewarded with a bonus. Such is the design for a
+failure culture at X. The funnel from idea to meaningful impact is huge.
+From millions of ideas to the next Google business that solves a problem
+for millions of people. A failure culture makes sure you both encourage
+a wide entry point in the funnel, but also that you narrow it down as
+soon as possible so as not to lose time or money better spent. So far,
+the exit point of this funnel includes a cybercrime defense company
+“Chronicle,” an internet hot-spot service using stratospheric balloons
+called “Loom,” a machine learning project called “Google Brain,” a drone
+delivery service “Wing” or self-driving company “Waymo.” Regarding
+monetary return, Waymo is valued as of 2018 at 70 billion dollars. Using
+“Google Brain” to optimize energy usage at Google’s data centers has
+reportedly saved the company more than the whole cost of X since its
+creation.
 
-They are not alone. Other companies embrace this model of long-term exploratory research while embracing failure and ambitious (socially and monetary) goals. In Spain, the telecommunications company Telefónica has created 'Alpha.' There, a team of ideation experts spend a year deciding what is the next Moonshot project, that the Board of Telefónica has to approve and commit supporting with both substantial funding and many years of runway to allow for it to succeed. Once approved, the project is publicly known and then looks for a 'Moonshot Captain' that is tasked with delivery. Compared with X, Alpha resembles more the lunar Moonshot where the target is set at first, and the team has a clear direction to reach, and strong political and financial support. At X, projects are born and killed organically among the shared pool of ideas, people and funding—until the project graduates when is quite mature. In 2019, Alpha had two ongoing projects, one around personalized health services, and one around democratizing access and generation of sustainable energy.
+They are not alone. Other companies embrace this model of long-term
+exploratory research while embracing failure and ambitious (socially and
+monetary) goals. In Spain, the telecommunications company Telefónica has
+created “Alpha.” There, a team of ideation experts spend a year deciding
+what is the next Moonshot project, that the Board of Telefónica has to
+approve and commit supporting with both substantial funding and many
+years of runway to allow for it to succeed. Once approved, the project
+is publicly known and then looks for a “Moonshot Captain” that is tasked
+with delivery. Compared with X, Alpha resembles more the lunar Moonshot
+where the target is set at first, and the team has a clear direction to
+reach, and strong political and financial support. At X, projects are
+born and killed organically among the shared pool of ideas, people and
+funding—until the project graduates when is quite mature. In 2019, Alpha
+had two ongoing projects, one around personalized health services, and
+one around democratizing access and generation of sustainable energy.
 
-It is tough to evaluate the success of Moonshots, their 'factories,' or the mindset behind them. By definition, they tend to be all or nothing, with a very high bar of success. Either the team gets to the moon or not. Either the team creates an autonomous car service or not. Either the team finds a cure for cancer or not. Moonshots involve substantial capital financially and strategically. The impact when they succeed is huge, but when they don't, they are very costly in many ways. Unlike the Lunar Moonshot, and especially with the efforts from the private sector, we have developed strategies to filter before committing, cut the costs with early ditching, let them pivot to other directions, or extract value along the way. The stakes are very high either way. To me, they highlight the fundamental tension between the explore versus exploit management in how we seek value of science in society.
+It is tough to evaluate the success of Moonshots, their "factories," or
+the mindset behind them. By definition, they tend to be all or nothing,
+with a very high bar of success. Either the team gets to the moon or
+not. Either the team creates an autonomous car service or not. Either
+the team finds a cure for cancer or not. Moonshots involve substantial
+capital financially and strategically. The impact when they succeed is
+huge, but when they don’t, they are very costly in many ways. Unlike the
+Lunar Moonshot, and especially with the efforts from the private sector,
+we have developed strategies to filter before committing, cut the costs
+with early ditching, let them pivot to other directions, or extract
+value along the way. The stakes are very high either way. To me, they
+highlight the fundamental tension between the explore versus exploit
+management in how we seek value of science in society.
 
-Curiosity-driven science explores the unknown, with unpredictable progress in unpredictable directions. It might yield nothing new for years, or a fundamental discovery that changes everything, like Relativity. Success, in that case, is likely based on how well the wheels of the process are turning. Progress is not unexpected, but unpredictable.
+Curiosity-driven science explores the unknown, with unpredictable
+progress in unpredictable directions. It might yield nothing new for
+years, or a fundamental discovery that changes everything, like
+Relativity. Success, in that case, is likely based on how well the
+wheels of the process are turning. Progress is not unexpected, but
+unpredictable.
 
-Outcome-driven science, like Moonshots, not only has to progress forward to be successful, it must go in only one particular direction, the intended destination, and it has to get there. We probably need both. The 'Moonshot Mindset' reflects on this tension by embracing impact as the selector. These Moonshot factories like X or Alpha have the luxury and responsibility of nimbly choosing their destination. That's something NASA didn't have when they went to the moon. Moreover, these Moonshots also have the luxury and responsibility to leverage tremendous resources strictly for impact. That's something academia doesn't have when publishing papers and building careers. In summary, you can´t Moonshot the discovery of Relativity, but you can´t get to the moon driven by academic curiosity.
+Outcome-driven science, like Moonshots, not only has to progress forward
+to be successful, it must go in only one particular direction, the
+intended destination, and it has to get there. We probably need both.
+The “Moonshot Mindset” reflects on this tension by embracing impact as
+the selector. These Moonshot factories like X or Alpha have the luxury
+and responsibility of nimbly choosing their destination. That’s
+something NASA didn’t have when they went to the moon. Moreover, these
+Moonshots also have the luxury and responsibility to leverage tremendous
+resources strictly for impact. That’s something academia doesn’t have
+when publishing papers and building careers. In summary, you can´t
+Moonshot the discovery of Relativity, but you can´t get to the moon
+driven by academic curiosity.
 
 {% include more.md %}
