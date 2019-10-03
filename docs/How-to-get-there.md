@@ -56,7 +56,7 @@ institution; and mentees I have helped throughout these years. Lastly, I
 have been very deliberate in seeking continuous feedback on this book
 from the earliest drafts. I have registered and integrated all of this
 feedback and continue to do so through its website (
-[impactscience.dev/](https://impactscience.dev/) ). Feedback from
+[impactscience.dev/](https://book.impactscience.dev/) ). Feedback from
 readers is always welcome. In fact, this book is meant to be updated
 regularly, so make sure to check online for the latest version.
 

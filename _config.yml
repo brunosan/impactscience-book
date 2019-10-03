@@ -16,7 +16,7 @@
 title: Impact Science
 description: The science of getting to radical social and environmental breakthroughs stunningly fast.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://impactscience.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://book.impactscience.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
