@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b16bff226612e0b6",
+  "active": "bb1e8aff81ecc310",
   "lastOpenFiles": [
+    "Gemfile.lock",
     "book.txt",
     "docs/Notes.md",
     "index.md",
