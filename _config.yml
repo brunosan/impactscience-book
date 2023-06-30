@@ -1,37 +1,67 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: Impact Science Book
+description: The Science of getting to radical social and environmental breakthroughs.
+theme: just-the-docs
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Impact Science
-description: The science of getting to radical social and environmental breakthroughs stunningly fast.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://book.impactscience.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://just-the-docs.github.io
 
-permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Enable or disable the site search
+# Supports true (default) or false
 search_enabled: true
 
-# Aux links for the upper right navigation
-aux_links:
-  "© Bruno Sánchez-Andrade Nuño":
-    - "https://brunosan.eu"
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 3
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 3
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 5
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 10
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: true
 
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+
+# Footer content
+# appears at the bottom of every page's main content
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
+footer_content: "Version: V.8.9 © 2017-2022 Bruno Sánchez-Andrade Nuño. This work is licensed under a 'Creative Commons Attribution 4.0 International License'."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+color_scheme: dark
 
 # Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
 ga_tracking: UA-328064-25
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)

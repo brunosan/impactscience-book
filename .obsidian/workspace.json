@@ -11,12 +11,8 @@
             "id": "b16bff226612e0b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,32 +140,41 @@
   },
   "active": "b16bff226612e0b6",
   "lastOpenFiles": [
-    "book.txt",
-    "docs/Notes.md",
-    "index.md",
-    "CODE_OF_CONDUCT.md",
+    "book/what-would-you-do.md",
+    "book/wax.md",
+    "book/nuts.md",
+    "book/mud.md",
+    "book/moonshot.md",
+    "book/missing-the-point.md",
+    "book/mindset.md",
+    "book/managing.md",
+    "book/getting-right.md",
+    "book/fridges.md",
+    "book/covid.md",
+    "book/climate-change.md",
+    "book/change-the-world.md",
+    "book/blind.md",
+    "book/The-HIVAIDS-case.md",
+    "book/Stories.md",
+    "book/Notes.md",
+    "book/Moon.md",
+    "book/Introduction.md",
+    "book/How-to-get-there.md",
+    "book/Foreword.md",
+    "book/Bomb.md",
+    "book",
+    "_site/assets/js/vendor/lunr.min.js",
+    "_site/assets/js/vendor",
+    "_site/assets/js/search-data.json",
+    "_site/assets/js/just-the-docs.js",
+    "_site/assets/css/just-the-docs-light.css.map",
+    "_site/assets/css/just-the-docs-light.css",
+    "_site/assets/css/just-the-docs-default.css.map",
+    "_site/assets/css/just-the-docs-default.css",
+    "_site/assets/css/just-the-docs-dark.css.map",
+    "_site/README.md",
     "_includes/more.md",
-    "docs/nuts.md",
-    "docs/Foreword.md",
-    "docs/mud.md",
-    "Notes^1.md",
-    "docs/Introduction.md",
-    "Notes^2.md",
-    "docs/what-would-you-do.md",
-    "docs/Stories.md",
-    "docs/managing.md",
-    "docs/How-to-get-there.md",
-    "docs/change-the-world.md",
-    "docs/blind.md",
-    "docs/Bomb.md",
-    "docs/climate-change.md",
-    "docs/covid.md",
-    "docs/fridges.md",
-    "docs/getting-right.md",
-    "docs/mindset.md",
-    "docs/missing-the-point.md",
-    "docs/Moon.md",
-    "docs/moonshot.md",
-    "agent.py"
+    "index.md",
+    "README.md"
   ]
 }
