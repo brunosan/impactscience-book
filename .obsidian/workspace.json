@@ -148,6 +148,7 @@
   },
   "active": "b16bff226612e0b6",
   "lastOpenFiles": [
+    "book.txt",
     "docs/Notes.md",
     "index.md",
     "CODE_OF_CONDUCT.md",
@@ -173,7 +174,6 @@
     "docs/missing-the-point.md",
     "docs/Moon.md",
     "docs/moonshot.md",
-    "docs/The-HIVAIDS-case.md",
     "agent.py"
   ]
 }
