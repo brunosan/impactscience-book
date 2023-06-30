@@ -7,201 +7,22 @@ nav_order: 7
 
 # The witness paradox of climate change
 
-Climate change is another of these long-called failures, or as Michele
-Wucker called it, “Grey Rhinos[17]” cases. Everyone knows what a grey
-rhino looks like. This one is even charging at you with known
-consequences of inaction, but we see it coming and do nothing, as we
-keep seeing it coming. It is a case where the scientific emphasis is
-mostly siloed on understanding the processes, without having it turned
-into meaningful change in practice. At this point, there is no
-reasonable doubt that human activity is pumping out greenhouse gases,
-like CO2, that are disrupting the climate systems at a global scale.
-This disruption has negative effects on the landscape, the oceans, life
-in general, and our society and support systems like agriculture. The
-frequency and intensity, and costs, of extreme events like floods and
-droughts, have increased and will continue to do so. The average
-temperatures in the surface will keep rising, putting more stress on our
-health, food production, livelihoods, and lives. Eventually this
-stressed system might pass a threshold of no return, deemed at around
-two degrees Celsius of warming above the Industrial Revolution time. At
-this stage, instead of adjusting by being warmer, the whole climate
-system changes and the impacts are not anymore incremental but radical.
-We can measure this, we can understand how and where these changes will
-happen. We know where these gases come from. We can even model the
-effects of having more gases. As the scientific community has put
-forward, if we want to minimize the consequences we must, right now,
-massively reduce our CO2 emission (it’s too late to avoid repercussions
-completely, we can only reduce the impact).
+Climate change is another of these long-called failures, or as Michele Wucker called it, “Grey Rhinos[[i]](#_edn1)” cases. Everyone knows what a grey rhino looks like. This one is even charging at you with known consequences of inaction, but we see it coming and do nothing, as we keep seeing it coming. It is a case where the scientific emphasis is mostly siloed on understanding the processes, without having it turned into meaningful change in practice. At this point, there is no reasonable doubt that human activity is pumping out greenhouse gases, like CO2, that are disrupting the climate systems at a global scale. This disruption has negative effects on the landscape, the oceans, life in general, and our society and support systems like agriculture. The frequency and intensity, and costs, of extreme events like floods and droughts, have increased and will continue to do so. The average temperatures in the surface will keep rising, putting more stress on our health, food production, livelihoods, and lives. Eventually this stressed system might pass a threshold of no return, deemed at around two degrees Celsius of warming above the Industrial Revolution time. At this stage, instead of adjusting by being warmer, the whole climate system changes and the impacts are not anymore incremental but radical. We can measure this, we can understand how and where these changes will happen. We know where these gases come from. We can even model the effects of having more gases. As the scientific community has put forward, if we want to minimize the consequences we must, right now, massively reduce our CO2 emission (it’s too late to avoid repercussions completely, we can only reduce the impact).
 
-The strategy of reducing the emissions is called “climate change
-mitigation.” There is also a parallel track, called “climate change
-adaptation” which is to accommodate for the climatic changes we already
-see, and the ones we will likely see incoming. Climate change adaptation
-is, in fact, increasingly important as we prove unable to mitigate. The
-key concepts here are that we understand that climate change is caused
-by humans, and that we can probably stop it with mitigation, and in any
-case some degree of adaptation is needed. Adaptation is also
-increasingly more expensive as we fail to mitigate.
+The strategy of reducing the emissions is called “climate change mitigation.” There is also a parallel track, called “climate change adaptation” which is to accommodate for the climatic changes we already see, and the ones we will likely see incoming. Climate change adaptation is, in fact, increasingly important as we prove unable to mitigate. The key concepts here are that we understand that climate change is caused by humans, and that we can probably stop it with mitigation, and in any case some degree of adaptation is needed. Adaptation is also increasingly more expensive as we fail to mitigate.
 
-Through the discovery and popularization of climate change, mitigation
-has been the first priority, while adaptation was mostly being seen as a
-measure of dealing with the failure. Al Gore, in his 1992 book *Earth in
-the Balance*, called adaptation a "kind of laziness, an arrogant faith
-in our ability to react in time to save our skins." On top of that, the
-private sector has always been seen as the culprit of climate change,
-the target of those demands to stop pollution. As if it were an external
-entity just pumping out gases, deaf to science. The scientific community
-in those early days was essentially dedicated to explaining with ever
-increasing detail the processes of how the private sector is putting us
-into deeper trouble, how we ought to stop pollution immediately, and how
-not even adaptation would work. Adaptation was like a person buying
-bigger clothes as they failed to mitigate eating more cakes. And we kept
-emitting more, and the effects of the climate change took its toll on
-more land degradation, less agricultural crops, more disasters... in
-fact, affecting those who were most vulnerable in developing countries,
-that also were emitting least. A double injustice. And we kept writing
-papers. Scientific careers fully dedicated to dissecting these
-destruction processes. Whole UN bodies to make crystal clear what was
-the science and how proven it was. From the individual and research
-community perspective, scientists were achieving their objective:
-peer-reviewed papers, citations, tenure, increased basis for their
-claims and cries... from the global perspective, the world kept mostly
-on the so-called “business as usual,” and we still are flying towards
-the finely calculated and quickly approaching threshold of 2[18]\*C
-degrees above which things will get disproportionately worse.
+Through the discovery and popularization of climate change, mitigation has been the first priority, while adaptation was mostly being seen as a measure of dealing with the failure. Al Gore, in his 1992 book _Earth in the Balance_, called adaptation a "kind of laziness, an arrogant faith in our ability to react in time to save our skins." On top of that, the private sector has always been seen as the culprit of climate change, the target of those demands to stop pollution. As if it were an external entity just pumping out gases, deaf to science. The scientific community in those early days was essentially dedicated to explaining with ever increasing detail the processes of how the private sector is putting us into deeper trouble, how we ought to stop pollution immediately, and how not even adaptation would work. Adaptation was like a person buying bigger clothes as they failed to mitigate eating more cakes. And we kept emitting more, and the effects of the climate change took its toll on more land degradation, less agricultural crops, more disasters... in fact, affecting those who were most vulnerable in developing countries, that also were emitting least. A double injustice. And we kept writing papers. Scientific careers fully dedicated to dissecting these destruction processes. Whole UN bodies to make crystal clear what was the science and how proven it was. From the individual and research community perspective, scientists were achieving their objective: peer-reviewed papers, citations, tenure, increased basis for their claims and cries... from the global perspective, the world kept mostly on the so-called “business as usual,” and we still are flying towards the finely calculated and quickly approaching threshold of 2˚C degrees above which things will get disproportionately worse.
 
-In early 2010, as the evidence of climate change mounted, an increasing
-group of people started calling for addressing the role of the private
-sector beyond an easy blame of being the source of the devil pumping of
-CO2. Yes, the private sector is responsible for most of the
-emissions[19], but virtually every gram of it is a service or a product
-that is sold, it represents the employment of millions of people, the
-very fuel that powers our increasing well-being in society. As much as
-it is vilified, we need it to produce our food, move things and people
-back and forth, even fly to the conferences we talk about how much CO2
-that is. As part of our social fabric of well-being, we simply cannot
-shut down today all factories, ground planes, and close mines, as the
-science shows we physically need to if we want to abate climate change.
-Furthermore, if given the choice of the same product or service at a
-higher price in return for a less environmental footprint, most of us
-won’t want to pay, or can afford, the extra premium cost, like when
-given the choice of an ecological fruit versus a standard one. And the
-opposite is true: wealthier people and societies that could afford
-paying more to have a similar but more sustainable lifestyle, have
-lifestyles that instead pollute more, like when buying an extra car for
-convenience, instead of pushing for better public transport.
+In early 2010, as the evidence of climate change mounted, an increasing group of people started calling for addressing the role of the private sector beyond an easy blame of being the source of the devil pumping of CO2. Yes, the private sector is responsible for most of the emissions[[ii]](#_edn2), but virtually every gram of it is a service or a product that is sold, it represents the employment of millions of people, the very fuel that powers our increasing well-being in society. As much as it is vilified, we need it to produce our food, move things and people back and forth, even fly to the conferences we talk about how much CO2 that is. As part of our social fabric of well-being, we simply cannot shut down today all factories, ground planes, and close mines, as the science shows we physically need to if we want to abate climate change. Furthermore, if given the choice of the same product or service at a higher price in return for a less environmental footprint, most of us won’t want to pay, or can afford, the extra premium cost, like when given the choice of an organic fruit versus a standard one. And the opposite is true: wealthier people and societies that could afford paying more to have a similar but more sustainable lifestyle, have lifestyles that instead pollute more, like when buying an extra car for convenience, instead of pushing for better public transport.
 
-As much as it pains to realize this, currently our socioeconomic status
-is substantially coupled to environmental unsustainability. Decoupling
-this will need much more than papers, or books, saying that much. Part
-of it is collective behavior, habit inertia, and lack of incentives to
-change. Just like most of us don’t really change our behavior after our
-dentist tells us to floss more, our doctor to eat less fat, or our bank
-to put more into our savings account. Climate change is not a political
-priority, as it is not something that will make people change their vote
-in an election. On the contrary, the candidate who promises less
-subsidies to oil, or more taxes to offset carbon, will probably lose
-votes, especially from those who would lose their jobs. But even more
-difficult, many people simply cannot afford to buy the more expensive
-healthier food or cannot afford to upgrade their old and oil-thirsty car
-to go to work.
+As much as it pains to realize this, currently our socioeconomic status is substantially coupled to environmental unsustainability. Decoupling this will need much more than papers, or books, saying that much. Part of it is collective behavior, habit inertia, and lack of incentives to change. Just like most of us don’t really change our behavior after our dentist tells us to floss more, our doctor to eat less fat, or our bank to put more into our savings account. Climate change is not a political priority, as it is not something that will make people change their vote in an election. On the contrary, the candidate who promises less subsidies to oil, or more taxes to offset carbon, will probably lose votes, especially from those who would lose their jobs. But even more difficult, many people simply cannot afford to buy the more expensive healthier food or cannot afford to upgrade their old and oil-thirsty car to go to work.
 
-The private sector and adaptation, a historical double devil, could in
-fact play a substantial role in finding its own double positive role.
-They could cover most of the finance, either by protecting their own
-assets or supplying chains that in the future would suffer. If chocolate
-beans don't grow, there is no chocolate industry. Additionally, private
-finance has a designed capacity and expertise in balancing risks and
-investments, and thus would tend to put venture capital in the emerging
-markets of climate-resilient products and services. There is a solid
-strategic angle to engage and articulate in detail the relation of
-private sector and adaptation to climate change, not only to start
-discovering solutions, but also as we aim to shift or replace several
-pillars of society, and many livelihoods—of course, as a parallel track
-of mitigation efforts. Today, this is part of the common narrative.
-Today, there are many efforts, articulated strategies, and dedicated
-funds on both the mitigation side and on the adaptation side, and also
-engaging the private sector as key partners. But back in the 2010s, the
-private sector and adaptation were mostly two big taboos, especially in
-scientific debates. I remember attending the private sector side-event
-at one of the UN key conferences on climate change, “COP 17” in Durban,
-South Africa. The keynote speaker at a session, a CEO from a
-multinational, said that “we are not here to ‘pay the bill’ of climate
-change, we are here to work together on pragmatic solutions we can start
-implementing now.” These were also the pillars of the “Global Adaptation
-Institute,” or GAIN, the NGO where I landed in 2011 right after dropping
-my very academic postdoc.
+The private sector and adaptation, a historical double devil, could in fact play a substantial role in finding its own double positive role. They could cover most of the finance, either by protecting their own assets or supply chains that in the future would suffer. If chocolate beans don't grow, there is no chocolate industry. Additionally, private finance has a designed capacity and expertise in balancing risks and investments, and thus would tend to put venture capital in the emerging markets of climate-resilient products and services. There is a solid strategic angle to engage and articulate in detail the relation of private sector and adaptation to climate change, not only to start discovering solutions, but also as we aim to shift or replace several pillars of society, and many livelihoods—of course, as a parallel track of mitigation efforts. Today, this is part of the common narrative. Today, there are many efforts, articulated strategies, and dedicated funds on both the mitigation side and on the adaptation side, and engaging the private sector as key partners. But back in the 2010s, the private sector and adaptation were mostly two big taboos, especially in scientific debates. I remember attending the private sector side-event at one of the UN key conferences on climate change, “COP 17” in Durban, South Africa. The keynote speaker at a session, a CEO from a multinational, said that “we are not here to ‘pay the bill’ of climate change, we are here to work together on pragmatic solutions we can start implementing now.” These were also the pillars of the “Global Adaptation Institute,” or GAIN, the NGO where I landed in 2011 right after dropping my very academic postdoc.
 
-The biggest scientific lesson I learned in my time at this NGO is that
-the scientific narrative could be very patronizing and uncompromising
-with pragmatism. We should do what scientists tell us, because if we
-knew what they know, we would do as they say. This attitude of a typical
-scientist, I saw, is the case even when we engaged all stakeholders on
-the same table: a research scientist, a finance or labor minister, and a
-CEO of an oil company. We are all in it together, and waving a fact flag
-or a research article won’t work to confront the livelihood, the votes,
-or the cultural attitudes of people. At GAIN we invited the ten most
-cited and published academics on adaptation, as well as CEOs from many
-industries and representatives from governments, civil society, and
-other NGOs. We spoke, for hours and days and weeks, and our job at the
-time was to find common anchors of understanding between these
-stakeholders. We had scientists telling us about the bluntness of the
-needed reductions. How deep and quick these need to be. How much more
-research, and research funding, was needed. How dire the consequences
-were of not listening to the facts they found. We had government
-officials telling us about our dependence on oil in the labor market or
-in transport, as well as their lack of finance for this, or political
-budget to push this agenda up. We had companies who agreed on the needed
-change but the inability, or lack of incentive, to turn around whole
-industries on their dime, while covering the demand for their products
-and the competitive markets. Any increase of pricing would simply turn
-the consumer towards the competitor. We had groups denying the
-human-made nature of climate change but agreed on the need to increase
-resilience. Facts are facts, but the world is what it is. Facts don’t
-change the world, people do. And people are... complex. Any truly
-transformative solution would need to include all these stakeholders,
-working together. Somehow.
+The biggest scientific lesson I learned in my time at this NGO is that the scientific narrative could be very patronizing and uncompromising with pragmatism. We should do what scientists tell us, because if we knew what they know, we would do as they say. This attitude of a typical scientist, I saw, is the case even when we engaged all stakeholders on the same table: a research scientist, a finance or labor minister, and a CEO of an oil company. We are all in it together, and waving a fact flag or a research article won’t work to confront the livelihood, the votes, or the cultural attitudes of people. At GAIN we invited the ten most cited and published academics on adaptation, as well as CEOs from many industries and representatives from governments, civil society, and other NGOs. We spoke, for hours and days and weeks, and our job at the time was to find common anchors of understanding between these stakeholders. We had scientists telling us about the bluntness of the needed reductions. How deep and quick these need to be. How much more research, and research funding, was needed. How dire the consequences were of not listening to the facts they found. We had government officials telling us about our dependence on oil in the labor market or in transport, as well as their lack of finance for this, or political budget to push this agenda up. We had companies who agreed on the needed change but the inability, or lack of incentive, to turn around whole industries on their dime, while covering the demand for their products and the competitive markets. Any increase of pricing would simply turn the consumer towards the competitor. We had groups denying the human-made nature of climate change but agreed on the need to increase resilience. Facts are facts, but the world is what it is. Facts don’t change the world, people do. And people are... complex. Any truly transformative solution would need to include all these stakeholders, working together. Somehow.
 
-Our team leveraged the input for social scientists, economists,
-strategists, innovation, and ideation experts. The result of this
-process, our flagship product, was to distill the idea into a simple
-ranking, that unfolds into a matrix of Vulnerability and Readiness, that
-further unfolds into a detailed view for each country and for each
-factor. The ranking worked really well to start a conversation of who is
-up, or down, and then wonder why. The matrix was used to convey a
-holistic view that any solution had to deal with the natural
-vulnerability but also the societal readiness to do something. The last
-layer, the deepest one, aggregates and combines the full complexity of
-more than 30 variables, for more than 15 years of data, for more than
-170 countries in the world for which we had enough data. This
-“onion-layered” approach proved key to engage everyone into an iterative
-process to improve it, showcase it, and draw attention not only to the
-issue, but also to start bridging understanding into solutions, and what
-impact, from who, and how, would see what effect.
+Our team leveraged the input for social scientists, economists, strategists, innovation, and ideation experts. The result of this process, our flagship product, was to distill the idea into a simple ranking, that unfolds into a matrix of Vulnerability and Readiness, that further unfolds into a detailed view for each country and for each factor. The ranking worked really well to start a conversation of who is up, or down, and then wonder why. The matrix was used to convey a holistic view that any solution had to deal with the natural vulnerability but also the societal readiness to do something. The last layer, the deepest one, aggregates and combines the full complexity of more than 30 variables, for more than 15 years of data, for more than 170 countries in the world for which we had enough data. This “onion-layered” approach proved key to engage everyone into an iterative process to improve it, showcase it, and draw attention not only to the issue, but also to start bridging understanding into solutions, and what impact, from who, and how, would see what effect.
 
-While our efforts and team were small, I know of no other initiative
-that had such a positive and engaging response when presenting the very
-same tool and recommendations to research scientists, climate change
-deniers, journalists, the CIA, the World Bank, ambassadors, logistics
-companies, investors, and a long list of stakeholders we engaged. As a
-scientist myself, just out of academia, I felt incredibly empowered to
-be able to engage deeply with such a variety of actors. The model that
-calculated those numbers pulled from many sources and amounted to a few
-million data points, but it was mathematically trivial compared to the
-solar magnetoacoustic plasma waves I had done a few months before. It
-also felt incredibly more meaningful to the world than that basic
-research, as important as it is to understand the sun. It was precisely
-my advantage to operate mathematically quickly and swiftly that allowed
-our meetings to move fast, as we could see, or estimate, the impacts of
-the proposed changes in the model, often in real time, while I tweaked
-the code. Paradoxically, math was important, but it was only a very
-small subset of other factors much harder to evaluate and plan, and for
-which I had much more to learn and listen, like finance, culture,
-history, and politics. The anchor was not the science, the anchor was
-the positive impact we all wanted in society. We were solving for
-*impact*. My role was the part of that impact that can be helpful with
-the facts and, more importantly, the skills that scientists learn. My
-role was to be the impact scientist, although I only realized that many
-years later.
+While our efforts and team were small, I know of no other initiative that had such a positive and engaging response when presenting the very same tool and recommendations to research scientists, climate change deniers, journalists, the CIA, the World Bank, ambassadors, logistics companies, investors, and a long list of stakeholders we engaged. As a scientist myself, just out of academia, I felt incredibly empowered to be able to engage deeply with such a variety of actors. The model that calculated those numbers pulled from many sources and amounted to a few million data points, but it was mathematically trivial compared to the solar magnetoacoustic plasma waves I had done a few months before. It also felt incredibly more meaningful to the world than that basic research, as important as it is to understand the sun. It was precisely my advantage to operate mathematically quickly and swiftly that allowed our meetings to move fast, as we could see, or estimate, the impacts of the proposed changes in the model, often in real time, while I tweaked the code. Paradoxically, math was important, but it was only a very small subset of other factors much harder to evaluate and plan, and for which I had much more to learn and listen, like finance, culture, history, and politics. The anchor was not the science, the anchor was the positive impact we all wanted in society. We were solving for _impact_. My role was the part of that impact that can be helpful with the facts and, more importantly, the skills that scientists learn. My role was to be the impact scientist, although I only realized that many years later.
 
 {% include more.md %}

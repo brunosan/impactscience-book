@@ -7,106 +7,16 @@ nav_order: 14
 
 # Walking the Path, Blind
 
-When looking at this model of impact science, going from the *curious*
-profile pushing knowledge generation, to the *impact* profile pulling
-from the solution mindset, I look for failure cases and I look for
-success cases. I think we can learn from both. And I also look for cases
-in the middle, either because it shows signs of both, or because it’s
-still evolving. A prime case of that is Mark Pollock’s case, and the
-Druid Collective.
+When looking at this model of impact science, going from the _curious_ profile pushing knowledge generation, to the _impact_ profile pulling from the solution mindset, I look for failure cases and I look for success cases. I think we can learn from both. And I also look for cases in the middle, either because it shows signs of both, or because it’s still evolving. A prime case of that is Mark Pollock’s case, and the Druid Collective.
 
-Mark is a tough northern Irish, if I may use a redundancy. Due to a
-health condition, he became blind in 1998 and after suffering
-depression, he used adventure and overcoming physical endurance
-challenges as a way to build up again his identity and character. He
-ended up running marathons in the desert or racing to reach the North
-Pole. Blind. He also then found his love and life companion, Simone
-George. Life and its turns had it that he would soon have to apply his
-own motivational speeches overcoming hardship and handicaps. He suffered
-an accident in 2010 and became paralyzed from the waist down. Blind and
-paralyzed. I can’t fathom how one comes back from that, but they did,
-and Mark and Simone are fully dedicated to combine robotics, sensors and
-electrical stimulation so he can walk again. When I met him in 2013 I
-was deeply moved, impressed, and also skeptical of him finding a way to
-make paralyzed people walk again. So many factual reasons to doubt. This
-is where the story hits impact science. Neither of them are trained
-scientists, but they know the solution to their challenge will have a
-lot of science. A lot of academic knowledge, but also a lot of
-experimentation, a lot of new potential paths, a lot of combining fields
-of research, technology, and personal grit to endure the challenge.
+Mark is a tough northern Irish, if I may use a redundancy. Due to a health condition, he became blind in 1998 and after suffering depression, he used adventure and overcoming physical endurance challenges as a way to build up again his identity and character. He ended up running marathons in the desert or racing to reach the North Pole. Blind. He also then found his love and life companion, Simone George. Life and its turns had it that he would soon have to apply his own motivational speeches overcoming hardship and handicaps. He suffered an accident in 2010 and became paralyzed from the waist down. Blind and paralyzed. I can’t fathom how one comes back from that, but they did, and Mark and Simone are fully dedicated to combine robotics, sensors and electrical stimulation so he can walk again. When I met him in 2013 I was deeply moved, impressed, and also skeptical of him finding a way to make paralyzed people walk again. So many factual reasons to doubt. This is where the story hits impact science. Neither of them are trained scientists, but they know the solution to their challenge will have a lot of science. A lot of academic knowledge, but also a lot of experimentation, a lot of new potential paths, a lot of combining fields of research, technology, and personal grit to endure the challenge.
 
-Fast forward to 2018 and Mark has found that there are companies that
-build smart exoskeletons, like “Ekso Bionics.” You strap them on and
-their sensors and motors can do all the walking. He has walked over one
-million steps. Turns out physically moving as if you walk is important
-not only for the muscles but also the severed nervous system. In
-parallel, they found academic research on non-invasive electrical
-stimulations. Basically, small electric shocks on the skin above the
-muscle triggers muscle contraction and, in some cases, can slowly help
-regain some sensation, internal functions and hopefully some degree of
-mobility. What Mark and Simone did, was to combine all these pieces with
-a stubborn focus on impact: to walk again. They partnered with UCLA
-researchers, with bionic experts, data experts, and anyone who could
-help them figuratively and literally walk the path of regaining
-mobility. As of 2019, combining all these techniques, the smart
-exoskeleton does not need to do all the work, the electrical
-stimulations have allowed him to trigger voluntary movement. The path of
-recovery, while far from clear of obstacles, has already shown both
-progress and directions beyond what has ever been done before.
+Fast forward to 2018 and Mark has found that there are companies that build smart exoskeletons, like “Ekso Bionics.” You strap them on and their sensors and motors can do all the walking. He has walked over one million steps. Turns out physically moving as if you walk is important not only for the muscles but also the severed nervous system. In parallel, they found academic research on non-invasive electrical stimulations. Basically, small electric shocks on the skin above the muscle triggers muscle contraction and, in some cases, can slowly help regain some sensation, internal functions and hopefully some degree of mobility. What Mark and Simone did, was to combine all these pieces with a stubborn focus on impact: to walk again. They partnered with UCLA researchers, with bionic experts, data experts, and anyone who could help them figuratively and literally walk the path of regaining mobility. As of 2019, combining all these techniques, the smart exoskeleton does not need to do all the work, the electrical stimulations have allowed him to trigger voluntary movement. The path of recovery, while far from clear of obstacles, has already shown both progress and directions beyond what has ever been done before.
 
-One of the key difficulties is that these kinds of applications demand
-very deep knowledge of several scientific and technical fields, such as
-robotics and electrical stimulations, they succeed with complex networks
-of incentives, the right type of investors, and a wider but solid bridge
-between technology, market, and sustainable business models. These kind
-of companies are sometimes called “deep tech,” and while their upside
-might open whole markets, they are harder to run, need a lot of upfront
-capital, find investors, iterate with users… this is exactly the space,
-and with Mark Pollock´s case as canonical example, that the “Druid
-Collective” was set up to help[25]. To help identify these companies,
-to find and offer technical help, match with the right investors, the
-right partners, or help identify the best and shortest paths to market.
-The Druid Collective includes investors, former ministers, impact
-scientists, and end-users of these efforts like Mark Pollock or Simone.
+One of the key difficulties is that these kinds of applications demand very deep knowledge of several scientific and technical fields, such as robotics and electrical stimulations, they succeed with complex networks of incentives, the right type of investors, and a wider but solid bridge between technology, market, and sustainable business models. These kind of companies are sometimes called “deep tech,” and while their upside might open whole markets, they are harder to run, need a lot of upfront capital, find investors, iterate with users… this is exactly the space, and with Mark Pollock’s case as canonical example, that the “Druid Collective” was set up to help[[i]](#_edn1). To help identify these companies, to find and offer technical help, match with the right investors, the right partners, or help identify the best and shortest paths to market. The Druid Collective includes investors, former ministers, impact scientists, and end-users of these efforts like Mark Pollock or Simone.
 
-Science or tech innovation around health care or health conditions are a
-very special case of impact science. Especially for patients of an
-“incurable” condition. Even the name *patient* gives an idea of the
-frustration of being relegated to be passive and wait for research to
-find a cure or a treatment. Mark, Simone, and a growing number of rare
-disease patients and their families are shifting the status quo. Their
-interest is not necessarily to understand how and why symptoms happen,
-or the cause of it, as it is a means to find solutions, either cures or
-treatments to handle the consequences or handicaps, to have a better
-lifestyle. There is a long shadow of doubt that one might cross the line
-and give false hopes of finding a cure to save their life, but there is
-clearly a huge space where patients becomes active stakeholders of the
-challenge. Mark and Simone represent a huge example of this, but there
-are many other initiatives, like “Patients Like Me” or “Rare
-Connect”[26] where people with health conditions upload their data—from
-daily mood to prescription or physical activity—so they can both enable
-traditional research, but also explore other options or conversation
-among families with similar conditions.
+Science or tech innovation around health care or health conditions are a very special case of impact science. Especially for patients of an “incurable” condition. Even the name _patient_ gives an idea of the frustration of being relegated to be passive and wait for research to find a cure or a treatment. Mark, Simone, and a growing number of rare disease patients and their families are shifting the status quo. Their interest is not necessarily to understand how and why symptoms happen, or the cause of it, as it is a means to find solutions, either cures or treatments to handle the consequences or handicaps, to have a better lifestyle. There is a long shadow of doubt that one might cross the line and give false hopes of finding a cure to save their life, but there is clearly a huge space where patients becomes active stakeholders of the challenge. Mark and Simone represent a huge example of this, but there are many other initiatives, like “Patients Like Me” or “Rare Connect”[[ii]](#_edn2) where people with health conditions upload their data—from daily mood to prescription or physical activity—so they can both enable traditional research, but also explore other options or conversation among families with similar conditions. 
 
-In all these cases, from the hot wax incubator, to regaining personal
-mobility, there are strong scientific and technological underpinnings. I
-read them, and I reflect on this pipeline model of impact science. I
-realize that my training is academic in the sense that I feel most
-prepared, and interested, in the part about making and validating
-hypothesis, creating knowledge. I also see that the most impact happens
-when going the whole way. It is fair to think that these are distinct
-roles to be done with different people, but I would contend that the
-funnel between scientific discoveries and making a difference in the
-world could widen substantially if we bring the scientists closer to the
-impact. Especially as the world becomes increasingly dominated by
-scientific and technological products, services, and data. As this
-progress creates ever more complexity, it is very important that more
-people are engaged not only with their use, but also the tools to create
-them, to democratize the tools and process of progress, not only the
-products of progress. Reframing the role of scientist into impact helps
-expand the focus of what a scientist is or does, away from only
-knowledge creation and into more generally the power of the scientific
-tools, especially when combined alongside other stakeholders, experts,
-and users.
+In all these cases, from the hot wax incubator, to regaining personal mobility, there are strong scientific and technological underpinnings. I read them, and I reflect on this pipeline model of impact science. I realize that my training is academic in the sense that I feel most prepared, and interested, in the part about making and validating hypothesis, creating knowledge. I also see that the most impact happens when going the whole way. It is fair to think that these are distinct roles to be done with different people, but I would contend that the funnel between scientific discoveries and making a difference in the world could widen substantially if we bring the scientists closer to the impact. Especially as the world becomes increasingly dominated by scientific and technological products, services, and data. As this progress creates ever more complexity, it is very important that more people are engaged not only with their use, but also the tools to create them, to democratize the tools and process of progress, not only the products of progress. Reframing the role of scientist into impact helps expand the focus of what a scientist is or does, away from only knowledge creation and into more generally the power of the scientific tools, especially when combined alongside other stakeholders, experts, and users.
 
 {% include more.md %}

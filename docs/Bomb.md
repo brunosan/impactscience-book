@@ -7,216 +7,28 @@ nav_order: 9
 
 # The Bomb Moonshot
 
-If one had to summarize the twentieth century in few key events, it
-would surely have both World Wars, including the Nazis and the atomic
-bomb; and the Space Age when, for the first-time, humans left our planet
-and explored the cosmos. Two of these events—the atomic bomb and the
-moon landing—have deep scientific and technological underpinnings. The
-atomic bomb culminated years of intense and focused basic research on
-nuclear physics, with the Americans fearing what the Nazis would do if
-they got it first. It required a huge cooperation between scientists,
-engineers, mathematicians, and other experts. It involved both basic
-research and applied physics in full synchrony between each other, and
-against the unknown progress of the enemy. Americans had to beat the
-Nazis.
+If one had to summarize the twentieth century in few key events, it would surely have both World Wars, including the Nazis and the atomic bomb; and the Space Age when, for the first-time, humans left our planet and explored the cosmos. Two of these events—the atomic bomb and the moon landing—have deep scientific and technological underpinnings. The atomic bomb culminated years of intense and focused basic research on nuclear physics, with the Americans fearing what the Nazis would do if they got it first. It required a huge cooperation between scientists, engineers, mathematicians, and other experts. It involved both basic research and applied physics in full synchrony between each other, and against the unknown progress of the enemy. Americans had to beat the Nazis.
 
-In August 1939 the famous physicist Leo Szilard wrote a letter, which
-Albert Einstein signed as well, and they sent it to the USA president.
-It argued that with the recent discoveries in physics, a radically new
-and massive bomb was possible. One that could swing the war in one
-stroke. Theoretical physics was living a revolution pulling the threads
-of the revolutionary findings of a new field: quantum physics. At the
-same time, the Second World War had just started after Nazi Germany
-invaded Poland. As the war became more complicated and dominated by
-technology progress, progress in theoretical physics kept coming closer
-on how to conceptually release the immense power of breaking an atom. In
-1941 president Roosevelt, advised by Vanebar Bush, decided to approve
-and give very high priority for a program to develop the atomic bomb,
-the “Manhattan Project.”
+In August 1939 the famous physicist Leo Szilard wrote a letter, which Albert Einstein signed as well, and they sent it to the USA president. It argued that with the recent discoveries in physics, a radically new and massive bomb was possible. One that could swing the war in one stroke. Theoretical physics was living a revolution pulling the threads of the revolutionary findings of a new field: quantum physics. At the same time, the Second World War had just started after Nazi Germany invaded Poland. As the war became more complicated and dominated by technology progress, progress in theoretical physics kept coming closer on how to conceptually release the immense power of breaking an atom. In 1941 President Roosevelt, advised by Vanebar Bush, decided to approve and give very high priority for a program to develop the atomic bomb, the “Manhattan Project.”
 
-Vanebar Bush was an engineer and prolific inventor who found himself
-increasingly involved in the management of scientific institutions. He
-was essentially the first scientific advisor to an American president.
-During his long career he was Vice-President of the Massachusetts
-Institute of Technology (MIT), and Acting President of the National
-Advisory Committee for Aeronautics (NACA—the predecessor of NASA). In
-1941, the year of the letter by Dr. Szilard, President Roosevelt created
-the Office of Scientific Research and Development (OSRD), which would
-grow to coordinate six thousand American scientists on how to create and
-apply science to war efforts. It is in the context of the OSRD that the
-efforts to develop the atomic bomb were placed and prioritized. After
-the war, in 1945, Bush wrote a memo titled *Science, The Endless
-Frontier*, outlining his vision of a national strategy for science,
-including the importance of the “free play of the free intellect.” This
-memo also conceptualized a public funding mechanism that later became
-the National Science Foundation, or NSF. The NSF today has an annual
-budget of seven billion dollars. It is worth noting that under his
-guidance, the OSRD produced an incredible amount of scientific progress,
-both as academic knowledge, and applications (and both for defense and
-civil contexts). Yet, the OSRD strategy—in practice the USA Wartime
-Science Policy—was fundamentally opposite to the science strategy of his
-later peacetime Science Policy memo. In fact, the person chosen to
-direct the Manhattan Project and the laboratory that were to invent and
-build the first atomic bomb, the physicist Robert Oppenheimer, also had
-the same approach to manage science.
+Vanebar Bush was an engineer and prolific inventor who found himself increasingly involved in the management of scientific institutions. He was essentially the first scientific advisor to an American president. During his long career he was Vice-President of the Massachusetts Institute of Technology (MIT), and Acting President of the National Advisory Committee for Aeronautics (NACA—the predecessor of NASA). In 1941, the year of the letter by Dr. Szilard, President Roosevelt created the Office of Scientific Research and Development (OSRD), which would grow to coordinate six thousand American scientists on how to create and apply science to war efforts. It is in the context of the OSRD that the efforts to develop the atomic bomb were placed and prioritized. After the war, in 1945, Bush wrote a memo titled _Science, The Endless Frontier_, outlining his vision of a national strategy for science, including the importance of the “free play of the free intellect.” This memo also conceptualized a public funding mechanism that later became the National Science Foundation, or NSF. The NSF today has an annual budget of seven billion dollars. It is worth noting that under his guidance, the OSRD produced an incredible amount of scientific progress, both as academic knowledge, and applications (and both for defense and civil contexts). Yet, the OSRD strategy—in practice the USA Wartime Science Policy—was fundamentally opposite to the science strategy of his later peacetime Science Policy memo. In fact, the person chosen to direct the Manhattan Project and the laboratory that were to invent and build the first atomic bomb, the physicist Robert Oppenheimer, also had the same approach to manage science.
 
-Dr. Oppenheimer was a theoretical physicist in charge of a very
-difficult problem, with a very tight deadline. The Moonshot before the
-Moonshot. Getting to the finish line was the only priority, and time was
-the scarcest resource. Dr. Oppenheimer had to balance the exploration of
-new ideas, with exploitation of known ideas. Everything was secondary to
-getting the bomb, including research, but it was also clear that much
-basic knowledge had to be created even to figure out if such a weapon
-was possible. The whole team had to manage creating new hypothesis,
-testing them in experiments or models, and then applied and refine them,
-but only if they brought the team across the finish line. He was able to
-manage a wide range of issues, from interacting with the Department of
-War (now Department of Defense) and their military mindset, to
-participating in the theoretical meetings to choose which hypothesis to
-investigate, which engineering model to build, or who to hire, or what
-to buy to get the answer faster. The menace of a Nazi global domination
-put aside all other considerations, including academic worthiness or
-even personal convictions.
+Dr. Oppenheimer was a theoretical physicist in charge of a very difficult problem, with a very tight deadline. The Moonshot before the Moonshot. Getting to the finish line was the only priority, and time was the scarcest resource. Dr. Oppenheimer had to balance the exploration of new ideas, with exploitation of known ideas. Everything was secondary to getting the bomb, including research, but it was also clear that much basic knowledge had to be created even to figure out if such a weapon was possible. The whole team had to manage creating new hypothesis, testing them in experiments or models, and then applied and refine them, but only if they brought the team across the finish line. He was able to manage a wide range of issues, from interacting with the Department of War (now Department of Defense) and their military mindset, to participating in the theoretical meetings to choose which hypothesis to investigate, which engineering model to build, or who to hire, or what to buy to get the answer faster. The menace of a Nazi global domination put aside all other considerations, including academic worthiness or even personal convictions.
 
-In parallel, a team of Allied scientists—the Alsos Mission—started
-shadowing the war frontline progress in Europe, confirming the unlikely
-advantage of the Germans getting the atomic bomb. It soon also became
-clear that the design was not the only challenge, but also where to get
-the right kind of uranium, and how to prepare it and enrich it to be
-useful. This also meant that controlling uranium fuel mines was a
-defense mechanism, and that creating uranium processing facilities was a
-technological barrier to handle. Germany, Japan, and the Soviets were
-confident such a combination of research, engineering, and logistical
-challenges placed the atomic bomb beyond the scope of the ongoing war.
-Oppenheimer was committed to ensure Americans had it first, and as soon
-as possible.
+In parallel, a team of Allied scientists—the Alsos Mission—started shadowing the war frontline progress in Europe, confirming the unlikely advantage of the Germans getting the atomic bomb. It soon also became clear that the design was not the only challenge, but also where to get the right kind of uranium, and how to prepare it and enrich it to be useful. This also meant that controlling uranium fuel mines was a defense mechanism, and that creating uranium processing facilities was a technological barrier to handle. Germany, Japan, and the Soviets were confident such a combination of research, engineering, and logistical challenges placed the atomic bomb beyond the scope of the ongoing war. Oppenheimer was committed to ensure Americans had it first, and as soon as possible.
 
-Progress moved quickly, and they were successful in July 1945, exploding
-the first atomic bomb, nicknamed “Trinity,” in New Mexico (USA). By
-then, the defeat of the Nazis was almost finished, and Hitler had
-committed suicide in April that year. The prime reason to beat the Nazis
-in the atomic bomb was already off the table. The bomb was nonetheless
-used a month later in Hiroshima, and another one in Nagasaki. These
-bombings made the existence and might of the new kind of weapon publicly
-known, and Oppenheimer a cover-page hero for leading the project.
-However, ten days after the Japanese attack, he went to Washington DC to
-argue directly with the head of the Department of War against using
-atomic bombs. His position against nuclear warfare grew alongside his
-fame, which he used to lobby for non-proliferation of atomic bombs.
-Oppenheimer was once a member of the Communist party in the USA and with
-very liberal views at the time. Throughout his life he had to endure
-investigations, and after the war was over, and his pacifist views
-openly clearer, he had to suffer public humiliation and revocation of
-his security clearance. As the cold-war era settled in, any stance or
-doubt about the national politics was the target of anti-Soviet
-warmongering politicians. This volatile relation between the scientists
-at the core of the military progress, and the normative mindset of the
-American Cold War forced Oppenheimer to confront many accusations. The
-father of the American rockets, Wernher von Braun, testified in his
-defense that in "In England, Oppenheimer would have been knighted."
+Progress moved quickly, and they were successful in July 1945, exploding the first atomic bomb, nicknamed “Trinity,” in New Mexico (USA). By then, the defeat of the Nazis was almost finished, and Hitler had committed suicide in April that year. The prime reason to beat the Nazis in the atomic bomb was already off the table. The bomb was nonetheless used a month later in Hiroshima, and another one in Nagasaki. These bombings made the existence and might of the new kind of weapon publicly known, and Oppenheimer a cover-page hero for leading the project. However, ten days after the Japanese attack, he went to Washington DC to argue directly with the head of the Department of War against using atomic bombs. His position against nuclear warfare grew alongside his fame, which he used to lobby for non-proliferation of atomic bombs. Oppenheimer was once a member of the Communist party in the USA and with very liberal views at the time. Throughout his life he had to endure investigations, and after the war was over, and his pacifist views openly clearer, he had to suffer public humiliation and revocation of his security clearance. As the cold-war era settled in, any stance or doubt about the national politics was the target of anti-Soviet warmongering politicians. This volatile relation between the scientists at the core of the military progress, and the normative mindset of the American Cold War forced Oppenheimer to confront many accusations. The father of the American rockets, Wernher von Braun, testified in his defense that in "In England, Oppenheimer would have been knighted."
 
-Oppenheimer spent his later years increasingly concerned with the
-potential dangers to humanity by scientific discoveries. He became a
-global activist and lecturer for this cause, and for the broader role of
-science in society. His lectures and publications gained worldwide
-attention and awards across Europe. France made him an Officer of the
-Legion of Honor in 1957, and Britain elected him as a Foreign Member of
-the Royal Society in 1962. In 1965, President John F. Kennedy awarded
-him the prestigious Enrico Fermi Award, rehabilitating his figure and
-public recognition. He died four years later. Oppenheimer was a
-brilliant scientist who was able to master academic skills during his
-early career. Someone who faced the threat of fascism by fundamentally
-assisting the Allied effort, breaking the image of scientists with their
-heads in the clouds, and that theoretical academia was far from
-real-world applications.
+Oppenheimer spent his later years increasingly concerned with the potential dangers to humanity by scientific discoveries. He became a global activist and lecturer for this cause, and for the broader role of science in society. His lectures and publications gained worldwide attention and awards across Europe. France made him an Officer of the Legion of Honor in 1957, and Britain elected him as a Foreign Member of the Royal Society in 1962. In 1965, President John F. Kennedy awarded him the prestigious Enrico Fermi Award, rehabilitating his figure and public recognition. He died four years later. Oppenheimer was a brilliant scientist who was able to master academic skills during his early career. Someone who faced the threat of fascism by fundamentally assisting the Allied effort, breaking the image of scientists with their heads in the clouds, and that theoretical academia was far from real-world applications.
 
-The struggles of the father of the American atomic bomb discovering it,
-and working to shape a positive outcome from it, has a striking
-similarity on the Soviet side. They did not have a similarly sized or
-prioritized “Manhattan Program” but they closely followed, and spied, on
-them. After Hiroshima and Nagasaki, the Soviets realized they had to
-catch up to the clear military advantage of the bombs. They tried to
-replicate the Manhattan Project path of discovery as much as possible,
-and also gathered their best scientists. One of key ones was the
-physicist Andrei Sakharov.
+The struggles of the father of the American atomic bomb discovering it, and working to shape a positive outcome from it, has a striking similarity on the Soviet side. They did not have a similarly sized or prioritized “Manhattan Program” but they closely followed, and spied, on them. After Hiroshima and Nagasaki, the Soviets realized they had to catch up to the clear military advantage of the bombs. They tried to replicate the Manhattan Project path of discovery as much as possible, and gathered their best scientists. One of key ones was the physicist Andrei Sakharov.
 
-Dr. Sakharov was the son of a physics teacher and pianist, and grandson
-of a prominent lawyer who advocated for social awareness and human
-rights. Young Sakharov studied physics in Moscow, was forced to move due
-to the war, and finished his degree in Ashgabat (today’s Turkmenistan).
-Sakharov then did his PhD in a prestigious theoretical physics institute
-back in Moscow. Soon after getting his doctorate, he joined the post-war
-soviet atomic program, a move that proved fundamental to the Soviet
-progress. He conceptualized the design of how to make their atomic bomb
-work. In fact, the most powerful nuclear device ever detonated, the Tsar
-bomb in October 1961, with more than 3,000 times the power of the weapon
-dropped on Hiroshima, used what is today known as “Sakharov's Third
-Idea." Sakharov saw the strategic disadvantage upon the Soviet empire if
-only Americans had the bomb. He helped advance military might of
-destruction, but in parallel he also advocated for non-proliferation,
-peaceful uses of atomic energy, and a ban of atmospheric nuclear tests,
-which had many more harmful consequences than subterraneous tests.
+Dr. Sakharov was the son of a physics teacher and pianist, and grandson of a prominent lawyer who advocated for social awareness and human rights. Young Sakharov studied physics in Moscow, was forced to move due to the war, and finished his degree in Ashgabat (today’s Turkmenistan). Sakharov then did his PhD in a prestigious theoretical physics institute back in Moscow. Soon after getting his doctorate, he joined the post-war soviet atomic program, a move that proved fundamental to the Soviet progress. He conceptualized the design of how to make their atomic bomb work. In fact, the most powerful nuclear device ever detonated, the Tsar bomb in October 1961, with more than 3,000 times the power of the weapon dropped on Hiroshima, used what is today known as “Sakharov's Third Idea." Sakharov saw the strategic disadvantage upon the Soviet empire if only Americans had the bomb. He helped advance military might of destruction, but in parallel he also advocated for non-proliferation, peaceful uses of atomic energy, and a ban of atmospheric nuclear tests, which had many more harmful consequences than subterraneous tests.
 
-Especially after his involvement with the Soviet nuclear atom, Sakharov
-was an activist of science progress and against pseudoscience. At the
-time, the biologist Trofim Lysenko was pushing the idea that plants
-could change species when given the right treatment and rejected the
-concepts of genes. Stalin embraced this “Lysenkoism,” which aligned with
-the communist ideals of equality and rejected the deterministic nature
-of races and generic fate. Genes and evolution in animals are still
-today rejected on some small Christian communities in the west, but not
-to the extent Soviets did with agriculture. This official stand held
-research progress, while the rest of the world developed the skills and
-knowledge to improve their seeds and crops. It also meant that from 1920
-to 1964, more than 3000 pro-genes scientists in the Soviet Union were
-fired, sent to prison, or even killed. Sakharov used his political
-weight to actively campaign against Lysenkoism and the prosecution of
-“genuine scientists.” In 1968 Sakharov wrote an essay that advocated for
-diplomacy and trust instead of the intensification of the Cold War arms
-race that would aggravate the consequences of a potential arm conflict.
-He was banned from military research for this and forced to go back to
-civil research. He became a political activist, openly defending peace,
-democracy, and human rights. In 1975 he was awarded the Nobel Peace
-Prize but was banned from traveling to collect it in Oslo. In 1980 he
-was forced to exile to Gorky, a Soviet city off-limits to foreigners. In
-the next years he got more awards for his humanitarian activism, and in
-1985 the European Parliament established an award in his name for
-outstanding contributions to human rights. In 1986, under the
-perestroika reforms, he was allowed back to Moscow. In 1989, he was
-elected to the new Parliament and died in December of that year.
+Especially after his involvement with the Soviet nuclear atom, Sakharov was an activist of science progress and against pseudoscience. At the time, the biologist Trofim Lysenko was pushing the idea that plants could change species when given the right treatment and rejected the concepts of genes. Stalin embraced this “Lysenkoism,” which aligned with the communist ideals of equality and rejected the deterministic nature of races and generic fate. Genes and evolution in animals are still today rejected on some fringe Christian communities in the west, but not to the extent Soviets did with agriculture. This official stand held research progress, while the rest of the world developed the skills and knowledge to improve their seeds and crops. It also meant that from 1920 to 1964, more than 3000 pro-genes scientists in the Soviet Union were fired, sent to prison, or even killed. Sakharov used his political weight to actively campaign against Lysenkoism and the prosecution of “genuine scientists.” In 1968 Sakharov wrote an essay that advocated for diplomacy and trust instead of the intensification of the Cold War arms race that would aggravate the consequences of a potential arm conflict. He was banned from military research for this and forced to go back to civil research. He became a political activist, openly defending peace, democracy, and human rights. In 1975 he was awarded the Nobel Peace Prize but was banned from traveling to collect it in Oslo. In 1980 he was forced to exile to Gorky, a Soviet city off-limits to foreigners. In the next years he got more awards for his humanitarian activism, and in 1985 the European Parliament established an award in his name for outstanding contributions to human rights. In 1986, under the perestroika reforms, he was allowed back to Moscow. In 1989, he was elected to the new Parliament and died in December of that year.
 
-Both Oppenheimer and Sakharov lived a parallel scientific compass of
-values. They both played fundamental roles in making the most
-destructive bomb humans have known, and they were at the center of the
-scientific, political, and military realities of their time. They both
-became increasingly concerned with the effect of an accelerated
-scientific progress. From the vantage point of time, it is too easy to
-morally judge their contributions to the military and their
-responsibility to millions of deaths directly and indirectly through
-their creation. What is clear is that they were both, especially on the
-latter parts of their lives, extremely conscious and engaged with the
-moral responsibility of science, its role beyond data-driven progress,
-and the broader relation of co-dependence between science and society.
+Both Oppenheimer and Sakharov lived a parallel scientific compass of values. They both played fundamental roles in making the most destructive bomb humans have known, and they were at the center of the scientific, political, and military realities of their time. They both became increasingly concerned with the effect of an accelerated scientific progress. From the vantage point of time, it is too easy to morally judge their contributions to the military and their responsibility to millions of deaths directly and indirectly through their creation. What is clear is that they were both, especially on the latter parts of their lives, extremely conscious and engaged with the moral responsibility of science, its role beyond data-driven progress, and the broader relation of co-dependence between science and society.
 
-Besides creating the atomic bomb, nuclear physics these decades also
-created the technology for nuclear power plants, medical devices to
-safely diagnose, scan, and treat the body, and a whole new inertia to
-more basic research and understanding. In fact, the twentieth century
-meant a massive boost in science and technology, both regarding
-knowledge creation and impact. We started that century without
-lightbulbs, cars, computers (nor Internet), any antibiotics nor most
-vaccines, planes, relativity or quantum physics, agricultural chemical
-fertilizers, nor knowledge of what the DNA is. This was a fantastic
-century for science. It is not too far-fetched to say that both World
-Wars were fought and won in no small part using the newly-minted
-scientific skills. From encryption to planes, or bombs. Life expectancy
-moved up in 30 years from ages 35 to 65, thanks in significant part to
-advances in medicine and healthcare. The “Green Revolution” of
-agricultural technology transfers from the ’30s to the ’70s boosted
-productivity and saved more than a billion people (granting its creator
-Norman Borlaug a Nobel Prize in 1970). Then, on top of all that was the
-Space Age. We put people on the moon, pushing engineering beyond the
-confines of our world, and inspiring a whole generation of kids that
-later pursued science and engineering.
+Besides creating the atomic bomb, nuclear physics these decades also created the technology for nuclear power plants, medical devices to safely diagnose, scan, and treat the body, and a whole new inertia to more basic research and understanding. In fact, the twentieth century meant a massive boost in science and technology, both regarding knowledge creation and impact. We started that century without lightbulbs, cars, computers (nor Internet), any antibiotics nor most vaccines, planes, relativity or quantum physics, agricultural chemical fertilizers, nor knowledge of what the DNA is. This was a fantastic century for science. It is not too far-fetched to say that both World Wars were fought and won in no small part using the newly minted scientific skills. From encryption to planes, or bombs. Life expectancy moved up in 30 years from ages 35 to 65, thanks in significant part to advances in medicine and healthcare. The “Green Revolution” of agricultural technology transfers from the ’30s to the ’70s boosted productivity and saved more than a billion people (granting its creator Norman Borlaug a Nobel Prize in 1970). Then, on top of all that was the Space Age. We put people on the moon, pushing engineering beyond the confines of our world, and inspiring a whole generation of kids that later pursued science and engineering.
 
 {% include more.md %}

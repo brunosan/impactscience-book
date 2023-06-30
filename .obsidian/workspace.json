@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "5e628e8cd6ac2b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b900c9c518296b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b16bff226612e0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51930a5379758a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97d745d476a2159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb1e8aff81ecc310",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed4ef995ac9ee6c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b930d1f0272cb0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e20cbe00ace25820",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b106e143ad0272f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e11b7ef8a86b7e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70ff2a742d91f18d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b13138eedf9baaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc5927ed2c8b352e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b16bff226612e0b6",
+  "lastOpenFiles": [
+    "docs/Notes.md",
+    "index.md",
+    "CODE_OF_CONDUCT.md",
+    "_includes/more.md",
+    "docs/nuts.md",
+    "docs/Foreword.md",
+    "docs/mud.md",
+    "Notes^1.md",
+    "docs/Introduction.md",
+    "Notes^2.md",
+    "docs/what-would-you-do.md",
+    "docs/Stories.md",
+    "docs/managing.md",
+    "docs/How-to-get-there.md",
+    "docs/change-the-world.md",
+    "docs/blind.md",
+    "docs/Bomb.md",
+    "docs/climate-change.md",
+    "docs/covid.md",
+    "docs/fridges.md",
+    "docs/getting-right.md",
+    "docs/mindset.md",
+    "docs/missing-the-point.md",
+    "docs/Moon.md",
+    "docs/moonshot.md",
+    "docs/The-HIVAIDS-case.md",
+    "agent.py"
+  ]
+}
