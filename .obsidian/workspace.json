@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0ece90e2094693d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b16bff226612e0b6",
+  "active": "0ece90e2094693d8",
   "lastOpenFiles": [
     "book/what-would-you-do.md",
     "book/wax.md",
