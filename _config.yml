@@ -2,7 +2,7 @@ title: Impact Science Book
 description: The Science of getting to radical social and environmental breakthroughs.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://book.impactscience.dev
 
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -44,7 +44,7 @@ mermaid:
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Version: V.8.9 © 2017-2022 Bruno Sánchez-Andrade Nuño. This work is licensed under a 'Creative Commons Attribution 4.0 International License'."
+footer_content: "Version: V.8.9 © 2017-2023 Bruno Sánchez-Andrade Nuño. This work is licensed under a 'Creative Commons Attribution 4.0 International License'."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -53,8 +53,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_repository: "https://github.com/brunosan/impactscience-book/" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
 
