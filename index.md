@@ -22,10 +22,6 @@ Why would a NASA rocket scientist move to Bhutan to plant hazelnuts? How could s
 
 We have more scientists than ever before, more data than we ever dreamed, and technology in every aspect of life. And yet, with all of the wealth of facts, it seems there is still a stark polarization of opinions and paralysis of action. What is missing? This book explores, via stories of both success and failure, the weakening link between the research-driven scientists focused on understanding and creating knowledge, and the role of scientists integrating an impact-driven attitude. Scientists are good with data, but it is not just about data; it is what we do with it. Facts do not change the world—people do.
 
-Version: V.8.9
-© 2017-2022 Bruno Sánchez-Andrade Nuño
-This work is licensed under a "Creative Commons Attribution 4.0 International License".
-
 Check the menu on the right (or the button on top on mobile) to access the chapters.
 
 [Available on Amazon](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1)
